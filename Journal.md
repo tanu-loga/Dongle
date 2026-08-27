@@ -66,4 +66,10 @@ Took me 20 mins for the first four steps. Ctrl Y doesn't work. Wire stops wiring
 I had a minor issue finding the MCU download. I reckon it was because the file type was not selected. Turns out I can just specify format and click it without needing to name it and all. Here's how mine looks for now:  
 <img width="987" height="714" alt="image" src="https://github.com/user-attachments/assets/9a350ca0-6793-4407-a4fb-c7c1eecc00d7" />
 
-Note to self- Learn what MCU actually does
+Note to self- Learn what MCU actually does   
+## 3:03 PM
+I forgot to look up MCU and instead looked this up-
+<img width="1559" height="118" alt="image" src="https://github.com/user-attachments/assets/7bd2b696-005e-4825-997c-9ad6e1fcb142" />
+Yeah, the guide dropped that outa nowhere.
+What the hell is nF, decoupling capacitor, noise?? Electric stuff like these emit noise??   
+Anyways the simplified version is just a capacitator which is near a chip aka IC to keep its power supply stable. When chip bro needs extra power supply suddenly, this capacitator helps. Also, power supply aint so stable as a straight line. It has its bumps and dips. Those unwanted wobbling is called noise. 100 nF stands for nanoFarads, which is used for measuring capacitance - which I presume is the amount it can store. Also 100nF isn't a magical number, its just a common value. 
