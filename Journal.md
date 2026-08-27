@@ -99,4 +99,8 @@ Watched a movie halfway through and exactly before a fight scene (I assume). The
 I wired the basic stuff, now all I need to do is assign an LED or something else for each port. I think one of the port having a button in which I can open my browser with one click will be nice. Here's what I have so far-
 <img width="975" height="721" alt="image" src="https://github.com/user-attachments/assets/1ce44365-092a-4304-a23d-c164aaff7771" />           
 Yes, I know that SW button is floating without getting connected. I'm wondering what port I should connect it too.
+## 11:20 PM
+I'm so sleepy and am currently researching how to wire a button. I asked the org for a time extension. Here's how the schematic looks-
+<img width="1363" height="605" alt="image" src="https://github.com/user-attachments/assets/500a259d-d15d-449a-871e-5d6e65c9c138" />
 
+Waiting ten minutes for their reply! Till then I'll get ready to sleep.
