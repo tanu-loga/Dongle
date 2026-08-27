@@ -88,3 +88,6 @@ This is what I have so far:
 I took a break, ate, played games. Now I have to go outside and buy coffee.
 ## 7:00 PM
 Started PCB again, I should understand terminology more. What does 3V3 mean...
+## 8:26 PM
+Looked up ideas for making my LED more interesting. Here's how it looks so far-
+<img width="946" height="649" alt="image" src="https://github.com/user-attachments/assets/adc41ab7-36d1-4a4e-81e6-acde9d535865" />
