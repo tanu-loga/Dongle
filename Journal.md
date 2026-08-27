@@ -28,25 +28,25 @@ GND- Ground aka Asta's sword. It is the return point of electricity. Usually 0 v
 Resistor- Stops/reduces cursed energy, like a speedbump or a shield  
 I need to reference dictionary because I can't remember. -5 points from 100. 
 ## 1:04 PM
-Still writing the dictionary terms. 
-Capacitator- Bro stores electrical current
-Trace- Bro is the road itself, through which electricity travels. Its made of copper
-IC- Forgot full form. -2 points for forgetting form and definition
-IC- Integrated circuit -it is a silicon piece with thousands of tiny electronic circuits   
-Pad- Parking spot for the component's leg. It is an area where a component rests  
-VCC- Positive power supply. Basically a flare for saying that it needs power here  
-Footprint- Two pads signalling where something should go. AKA parking lot   
+Still writing the dictionary terms.   
+Capacitator- Bro stores electrical current           
+Trace- Bro is the road itself, through which electricity travels. Its made of copper   
+IC- Forgot full form. -2 points for forgetting form and definition         
+IC- Integrated circuit -it is a silicon piece with thousands of tiny electronic circuits    
+Pad- Parking spot for the component's leg. It is an area where a component rests       
+VCC- Positive power supply. Basically a flare for saying that it needs power here   
+Footprint- Two pads signalling where something should go. AKA parking lot    
 ## 1:12 PM
 -5 points for referencing dictionary. 
-Transistor- Switch which is used for controlling power supply
-Diode- One way road where electricity flows one way  
-LED- Light Emitting Diode. Diode wanted to become an LED! Boring definition is a diode which emits light once electricity is passed through it  
-Layers- PCB has multiple layers. The initial one, copper, another one, copper and that green thing again.  
-Via- A hole in which electricity passes through layers   
-## 1:19 PM
-Going to eat breakfast! Break I guess
+Transistor- Switch which is used for controlling power supply         
+Diode- One way road where electricity flows one way   
+LED- Light Emitting Diode. Diode wanted to become an LED! Boring definition is a diode which emits light once electricity is passed through it    
+Layers- PCB has multiple layers. The initial one, copper, another one, copper and that green thing again.   
+Via- A hole in which electricity passes through layers    
+## 1:19 PM 
+Going to eat breakfast! Break I guess                 
 ## 1:58 PM
-I am back!   
+I am back!    
 Connector- Connects stuff together   
 USB A- main USB which powers the whole stuff   
 USB D-, USB D+ - USB data connections. They carry USB data communications AKA USB telephones  
@@ -61,3 +61,9 @@ The only challenge is myself and lets see how much points I get the next time I 
 Now, ONTO THE ACTUAL THING!  
 ## 2:12 PM
 Doing the schematics!
+## 2:36
+Took me 20 mins for the first four steps. Ctrl Y doesn't work. Wire stops wiring when I double click. 
+I had a minor issue finding the MCU download. I reckon it was because the file type was not selected. Turns out I can just specify format and click it without needing to name it and all. Here's how mine looks for now:  
+<img width="987" height="714" alt="image" src="https://github.com/user-attachments/assets/9a350ca0-6793-4407-a4fb-c7c1eecc00d7" />
+
+Note to self- Learn what MCU actually does
