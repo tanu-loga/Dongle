@@ -45,3 +45,19 @@ Layers- PCB has multiple layers. The initial one, copper, another one, copper an
 Via- A hole in which electricity passes through layers   
 ## 1:19 PM
 Going to eat breakfast! Break I guess
+## 1:58 PM
+I am back!   
+Connector- Connects stuff together   
+USB A- main USB which powers the whole stuff   
+USB D-, USB D+ - USB data connections. They carry USB data communications AKA USB telephones  
+Datasheet- A sheet by manufacturer explaining how components work, apparently I should eventually love it or learn to tolerate it    
+Silkscreen- The printed text and labels on PCB explaining what part is what like R1, C1 and so on       
+J1, J2 and so on- Used for connectors
+U1, U2 and so on- Used for integrated circuits or chips
+R1, and so on- For resistors. The list goes on but I think just seeing the capital letter would help aside from these cases    
+I'm done!! I listed all the beginner vocab!!    
+How many points do I have now?  74.. Yes I did not list some of the mistakes I made but I did look up the dictionary 3-4 times.  
+The only challenge is myself and lets see how much points I get the next time I build a similar project like this   
+Now, ONTO THE ACTUAL THING!  
+## 2:12 PM
+Doing the schematics!
