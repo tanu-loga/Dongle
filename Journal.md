@@ -86,3 +86,5 @@ This is what I have so far:
 
 ## 6:06 PM
 I took a break, ate, played games. Now I have to go outside and buy coffee.
+## 7:00 PM
+Started PCB again, I should understand terminology more. What does 3V3 mean...
