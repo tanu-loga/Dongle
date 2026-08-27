@@ -36,3 +36,12 @@ IC- Integrated circuit -it is a silicon piece with thousands of tiny electronic 
 Pad- Parking spot for the component's leg. It is an area where a component rests  
 VCC- Positive power supply. Basically a flare for saying that it needs power here  
 Footprint- Two pads signalling where something should go. AKA parking lot   
+## 1:12 PM
+-5 points for referencing dictionary. 
+Transistor- Switch which is used for controlling power supply
+Diode- One way road where electricity flows one way  
+LED- Light Emitting Diode. Diode wanted to become an LED! Boring definition is a diode which emits light once electricity is passed through it  
+Layers- PCB has multiple layers. The initial one, copper, another one, copper and that green thing again.  
+Via- A hole in which electricity passes through layers   
+## 1:19 PM
+Going to eat breakfast! Break I guess
