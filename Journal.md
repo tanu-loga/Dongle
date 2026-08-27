@@ -111,3 +111,6 @@ Had a good night's sleep and woke up to see the ysws was extended! YAY!!!
 ## 9:33 AM
 Okay, so I had about 3 errors and 3 warnings with my schematic. I rewired them but it's not working. I also have to check if my sw_push button will work, but it shows no errors as of now.
 <img width="1686" height="881" alt="image" src="https://github.com/user-attachments/assets/b923e877-ff03-4804-a9d5-02f4455b049b" />
+## 9:47
+Guess what was the fix? We need to add a PWR_FLAG to signify its a power source. It wasn't mentioned in the guide so I couldn't figure out what in heavens was the fix. Thanks to @phantom-ascii, the problem was solved. 3 more warnings are left, but it can be fixed when I'm designing the PCB (phantom-ascii said so). 
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/fe1de530-487c-4023-8cd5-8a2c409c62e2" />
