@@ -91,3 +91,6 @@ Started PCB again, I should understand terminology more. What does 3V3 mean...
 ## 8:26 PM
 Looked up ideas for making my LED more interesting. Here's how it looks so far-
 <img width="946" height="649" alt="image" src="https://github.com/user-attachments/assets/adc41ab7-36d1-4a4e-81e6-acde9d535865" />
+Break time again..
+## 10:44 PM
+Watched a movie halfway through and exactly before a fight scene (I assume). The movie is called Rorouni Kenshin: Kyoto Inferno - its the part two of a series of movies - and its PEAK. Anyways, back to PCB and brainstorming. I also had dinner!
