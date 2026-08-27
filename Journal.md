@@ -90,7 +90,13 @@ I took a break, ate, played games. Now I have to go outside and buy coffee.
 Started PCB again, I should understand terminology more. What does 3V3 mean...
 ## 8:26 PM
 Looked up ideas for making my LED more interesting. Here's how it looks so far-
-<img width="946" height="649" alt="image" src="https://github.com/user-attachments/assets/adc41ab7-36d1-4a4e-81e6-acde9d535865" />
+<img width="946" height="649" alt="image" src="https://github.com/user-attachments/assets/adc41ab7-36d1-4a4e-81e6-acde9d535865" />        
+
 Break time again..
 ## 10:44 PM
 Watched a movie halfway through and exactly before a fight scene (I assume). The movie is called Rorouni Kenshin: Kyoto Inferno - its the part two of a series of movies - and its PEAK. Anyways, back to PCB and brainstorming. I also had dinner!
+## 10:59 PM
+I wired the basic stuff, now all I need to do is assign an LED or something else for each port. I think one of the port having a button in which I can open my browser with one click will be nice. Here's what I have so far-
+<img width="975" height="721" alt="image" src="https://github.com/user-attachments/assets/1ce44365-092a-4304-a23d-c164aaff7771" />           
+Yes, I know that SW button is floating without getting connected. I'm wondering what port I should connect it too.
+
