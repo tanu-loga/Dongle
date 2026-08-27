@@ -25,6 +25,11 @@ VBUS- It is through the VBUS electricity comes and makes stuff work. Usually 5 v
 Plug- Bro needs a port to plug into
 Port- Bro needs a plug to be useful. AKA a socket 
 GND- Ground aka Asta's sword. It is the return point of electricity. Usually 0 volts? Asta's sword because it 'returns input', something like how his sword deflects magic while it has no magic itself  
+ Tanu from 3:21 PM writing: Ground is actually a reference point for electricity. You can't just outright say something is [number] volts. You need to measure it relative to something. So VBUS is 5 volts because VBUS - GND (0 volts) = 5. Another thing is that it is often the return path. To make ya and myself better understand the return thing, here's a diagram I made- 
+ 
+<img width="850" height="752" alt="image" src="https://github.com/user-attachments/assets/d3695851-775f-4a14-a5b2-834b5bc7c21d" />
+
+
 Resistor- Stops/reduces cursed energy, like a speedbump or a shield  
 I need to reference dictionary because I can't remember. -5 points from 100. 
 ## 1:04 PM
@@ -72,4 +77,11 @@ I forgot to look up MCU and instead looked this up-
 <img width="1559" height="118" alt="image" src="https://github.com/user-attachments/assets/7bd2b696-005e-4825-997c-9ad6e1fcb142" />
 Yeah, the guide dropped that outa nowhere.
 What the hell is nF, decoupling capacitor, noise?? Electric stuff like these emit noise??   
-Anyways the simplified version is just a capacitator which is near a chip aka IC to keep its power supply stable. When chip bro needs extra power supply suddenly, this capacitator helps. Also, power supply aint so stable as a straight line. It has its bumps and dips. Those unwanted wobbling is called noise. 100 nF stands for nanoFarads, which is used for measuring capacitance - which I presume is the amount it can store. Also 100nF isn't a magical number, its just a common value. 
+Anyways the simplified version is just a capacitator which is near a chip aka IC to keep its power supply stable. When chip bro needs extra power supply suddenly, this capacitator helps. Also, power supply ain't so stable as a straight line. It has its bumps and dips. Those unwanted wobbling is called noise. 100 nF stands for nanoFarads, which is used for measuring capacitance - which I presume is the amount it can store. Also 100nF isn't a magical number, its just a common value. 
+Unpolarised means the negative and positive end of the capacitator isn't specified. Thank you, unpolarised, one less work to do!  
+I'm surprised and happy that I'm starting to understand more of this considering I've never even touched hardware.
+## 3:56 PM
+This is what I have so far:   
+<img width="797" height="550" alt="image" src="https://github.com/user-attachments/assets/8901d4f7-7871-4721-b4b6-1de137bfe5dc" />
+
+
