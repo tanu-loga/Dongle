@@ -133,3 +133,6 @@ Finally finished the full layout-
 ## 2:09 PM
 Locked in and kinda finished wiring!
 <img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/530a531a-d84d-4e3b-9790-3d6d5ae77d17" />
+## 2:55 PM
+Almost done except for the GND wiring
+<img width="1409" height="881" alt="image" src="https://github.com/user-attachments/assets/e5c8dbde-2fef-410a-8b34-cf0f494ace29" />
