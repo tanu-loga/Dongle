@@ -124,7 +124,10 @@ Now I have to assign footprints.
 ## 11:01 AM
 I have to assign footprints for UBS_A and the YSWS guide provided a zip file for it. I unzipped it and tried to find it in the assign footprint section. Didn't work. But thanks to @shadow and @phantom.ascii, we did something and it worked in the PCB editor. Turns out the file name was indeed correct. I have about 4 hours to finish this.
 <img width="1914" height="975" alt="image" src="https://github.com/user-attachments/assets/632c2447-be12-453b-8618-935f77155545" />
-
 ## 11:37 AM
 Looking good enough so far:
 <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/adbac630-9646-407c-b34d-8e9909be7600" />
+## 12:48 PM
+Finally finished the full layout-
+<img width="397" height="743" alt="image" src="https://github.com/user-attachments/assets/086915d2-561a-4e04-89b4-0b0aed04864e" />
+
