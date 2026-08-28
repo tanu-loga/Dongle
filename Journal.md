@@ -1,5 +1,6 @@
 # Overview
-
+Total time 17~ hours!
+Turns LED on when button is pressed and opens my github!
 ## August 27th, 12:05 PM AEST
 Started this YSWS. I have till tomorrow 3am to finish this. Just downloaded KiCad.  
 I hope this goes well!  
