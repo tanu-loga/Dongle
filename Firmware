@@ -1,0 +1,85 @@
+#define LED_BUILTIN 31 // 
+
+
+void setup() {
+
+
+pinMode(LED_BUILTIN, OUTPUT);
+
+}
+
+void loop() {
+
+digitalWrite(LED_BUILTIN, HIGH);  
+
+delay(1000);  
+
+digitalWrite(LED_BUILTIN, LOW);  
+
+delay(1000);
+
+}
+#include <CompositeHID.h> 
+
+#define BUTTON_PIN 30
+
+void setup() {
+  pinMode(BUTTON_PIN, INPUT_PULLUP);
+  Keyboard.begin();
+}
+
+void loop() {
+  if (digitalRead(BUTTON_PIN) == LOW) {
+    
+    Keyboard.press(KEY_LEFT_GUI);
+    Keyboard.press('r');
+    delay(100);
+    Keyboard.releaseAll();
+    delay(200);
+    
+    Keyboard.println("https://github.com/tanu-loga/Dongle");
+    
+    while (digitalRead(BUTTON_PIN) == LOW) {
+      delay(10);
+    }
+    delay(200);
+  }
+
+
+const int PIN_BUTTON = P3_0;
+
+
+const int LED_PINS[] = {P1_1, P1_4, P1_5, P1_6, P1_7, P3_1, P3_2, P3_3};
+const int NUM_LEDS = 8;
+
+void setup() {
+ 
+  pinMode(PIN_BUTTON, INPUT_PULLUP);
+
+  for (int i = 0; i < NUM_LEDS; i++) {
+    pinMode(LED_PINS[i], OUTPUT);
+    digitalWrite(LED_PINS[i], LOW);
+}
+
+void loop() {
+
+  if (digitalRead(PIN_BUTTON) == LOW) {
+    
+
+    for (int flash = 0; flash < 3; flash++) {
+      
+
+      for (int i = 0; i < NUM_LEDS; i++) {
+        digitalWrite(LED_PINS[i], HIGH);
+      }
+      delay(150);
+
+      for (int i = 0; i < NUM_LEDS; i++) {
+        digitalWrite(LED_PINS[i], LOW);
+      }
+      delay(150); 
+    }
+
+    delay(200); 
+  }
+}
