@@ -147,5 +147,7 @@ Started working on the case!
 
 
 Until now I was under the plan of not adding a case, but I think given that they extended my time, I can add a case!
-## 3:59
+## 3:59 PM 
 Finally downloaded and set-upped Fusion 360, which is used by the guide. It was easily the HARDEST application to download!
+## 4:27 PM
+Lunch break!
