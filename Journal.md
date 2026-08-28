@@ -114,3 +114,14 @@ Okay, so I had about 3 errors and 3 warnings with my schematic. I rewired them b
 ## 9:47
 Guess what was the fix? We need to add a PWR_FLAG to signify its a power source. It wasn't mentioned in the guide so I couldn't figure out what in heavens was the fix. Thanks to @phantom-ascii, the problem was solved. 3 more warnings are left, but it can be fixed when I'm designing the PCB (phantom-ascii said so). 
 <img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/fe1de530-487c-4023-8cd5-8a2c409c62e2" />
+
+After this, I had to assign footprints. So I looked in the top bar as specified in the guide and clicked this option-
+<img width="1873" height="203" alt="image" src="https://github.com/user-attachments/assets/cd7ceb9a-9faf-488f-97bb-f0f2afc89780" />
+
+BUT I couldn't normally assign footprints! What was the fix? Turns out its a fake assign footprint that does something else. The actual one was under Tools in the top top bar. Nice interface, Kicad!
+Now I have to assign footprints.
+
+#11:01 AM
+I have to assign footprints for UBS_A and the YSWS guide provided a zip file for it. I unzipped it and tried to find it in the assign footprint section. Didn't work. But thanks to @shadow and @phantom.ascii, we did something and it worked in the PCB editor. Turns out the file name was indeed correct. I have about 4 hours to finish this.
+<img width="1914" height="975" alt="image" src="https://github.com/user-attachments/assets/632c2447-be12-453b-8618-935f77155545" />
+
