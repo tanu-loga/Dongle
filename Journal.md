@@ -131,12 +131,14 @@ Looking good enough so far:
 Finally finished the full layout-        
 <img width="397" height="743" alt="image" src="https://github.com/user-attachments/assets/086915d2-561a-4e04-89b4-0b0aed04864e" />
 ## 2:09 PM
-Locked in and kinda finished wiring!
+Locked in and kinda finished wiring!                 
 <img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/530a531a-d84d-4e3b-9790-3d6d5ae77d17" />
 ## 2:55 PM
-Almost done except for the GND wiring
+Almost done except for the GND wiring              
 <img width="1409" height="881" alt="image" src="https://github.com/user-attachments/assets/e5c8dbde-2fef-410a-8b34-cf0f494ace29" />
 
-## 3:21 PM
-ITS DONE. THE PCB IS DONE! 0 ERRORS FROM WIRING!
+## 3:21 PM  
+ITS DONE. THE PCB IS DONE! 0 ERRORS FROM WIRING!                          
 <img width="483" height="777" alt="image" src="https://github.com/user-attachments/assets/359b490d-aef7-4bd6-9cfe-5d6a8bc5edb0" />
+
+Until now I was under the plan of not adding a case, but I think given that they extended my time, I can add a case!
