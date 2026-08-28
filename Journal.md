@@ -151,3 +151,7 @@ Until now I was under the plan of not adding a case, but I think given that they
 Finally downloaded and set-upped Fusion 360, which is used by the guide. It was easily the HARDEST application to download!
 ## 4:27 PM
 Lunch break!
+## 5:13 PM
+Finished everything and did not add case. Currently doing BOM
+## 5:49 PM
+Finished the whole YSWS!!
