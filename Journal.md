@@ -142,3 +142,5 @@ ITS DONE. THE PCB IS DONE! 0 ERRORS FROM WIRING!
 <img width="483" height="777" alt="image" src="https://github.com/user-attachments/assets/359b490d-aef7-4bd6-9cfe-5d6a8bc5edb0" />
 
 Until now I was under the plan of not adding a case, but I think given that they extended my time, I can add a case!
+## 3:59
+Finally downloaded and set-upped Fusion 360, which is used by the guide. It was easily the HARDEST application to download!
