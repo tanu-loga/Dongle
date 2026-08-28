@@ -128,6 +128,8 @@ I have to assign footprints for UBS_A and the YSWS guide provided a zip file for
 Looking good enough so far:
 <img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/adbac630-9646-407c-b34d-8e9909be7600" />
 ## 12:48 PM
-Finally finished the full layout-
+Finally finished the full layout-        
 <img width="397" height="743" alt="image" src="https://github.com/user-attachments/assets/086915d2-561a-4e04-89b4-0b0aed04864e" />
-
+## 2:09 PM
+Locked in and kinda finished wiring!
+<img width="1918" height="1002" alt="image" src="https://github.com/user-attachments/assets/530a531a-d84d-4e3b-9790-3d6d5ae77d17" />
