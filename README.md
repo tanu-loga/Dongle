@@ -20,4 +20,4 @@ CH552G MCU | 0.75  | https://www.lcsc.com/product-detail/WCH_WCH-Jiangsu-Qin-Hen
 330K Resistor 8 pack | 0.85 | https://www.jaycar.com.au/330-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0560?srsltid=AfmBOoq0jde3VLH6yhrEOzSr7aMWRyRvkiBrD9k68aj7_MCP7qge69iiIWo
 SPST PCB Mount Tactile Switch Round X2| 2.60 | https://www.jaycar.com.au/spst-pcb-mount-tactile-switch-round/p/SP0609?gad_source=1&gad_campaignid=23159422471&gbraid=0AAAAAD0dvLZrerjss17YTTY1eyIzS6Ip5&gclid=CjwKCAjw48TUBhBREiwAK0GnQQ_dD0Ii1hkVJqVNKzKzTGDaI9jJY_8pX-Pp-n3GcmkvVo6e6os6OhoCdGYQAvD_BwE
 
-Green 3mm LED 40mcd Round Diffused X8| 2.4 | https://www.jaycar.com.au/green-3mm-led-40mcd-round-diffused/p/ZD0120?gad_source=1&gad_campaignid=23154998342&gbraid=0AAAAAD0dvLZ2-xqNyA9D5KJhMaNEriRcx&gclid=CjwKCAjw48TUBhBREiwAK0GnQeuhKOjyMMZlvnb9UmGTyD0RDicKeV3U7MG7UiYiZc1Q2fjIeIB28hoCV0gQAvD_BwE
+Green 3mm LED 40mcd Round Diffused X8 | 2.4 | https://www.jaycar.com.au/green-3mm-led-40mcd-round-diffused/p/ZD0120?gad_source=1&gad_campaignid=23154998342&gbraid=0AAAAAD0dvLZ2-xqNyA9D5KJhMaNEriRcx&gclid=CjwKCAjw48TUBhBREiwAK0GnQeuhKOjyMMZlvnb9UmGTyD0RDicKeV3U7MG7UiYiZc1Q2fjIeIB28hoCV0gQAvD_BwE
