@@ -1,6 +1,7 @@
 # Dongle
 My own LED Dongle
 A LED dongle which opens my github page when you press a button and flashes lights!
+I wanted a cool fun project to make and learn something new in the process. This YSWS is one of the best option I could have ever chosen, here are my snips from my pcb!
 <img width="835" height="460" alt="image" src="https://github.com/user-attachments/assets/3d1a43ff-bb14-4f74-8930-b441f0876bca" />
 <img width="1047" height="851" alt="image" src="https://github.com/user-attachments/assets/1a4e4b57-d7e7-4d47-a4c5-5b759e27c90d" />
 <img width="550" height="694" alt="image" src="https://github.com/user-attachments/assets/f347a0d0-8f48-43af-bddf-0c73b746c736" />
