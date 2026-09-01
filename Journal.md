@@ -1,5 +1,14 @@
 # Overview
-Total time 17~ hours!
+Total time 16~ hours!
+If you don't count me learning what pcb meant, -2 hours.
+All calculation with a buffer of 30 mins-
+I spent 8 hours on breaks - not including sleep
+2 hours on purely learning what stuff meant (resistors and so on).
+5-6 hours on the schematics - yes, im slow and I didn't realise what it meant
+6 hours on the PCB wiring and so on
+I tried to make a case but I gave up, which I forgot to input on github (sorry!)
+I spent 1-2 hours on the case - installing took alot of time and I tried to tinker with the case alot
+1 more hour for the BOM. Really, I had no experience making the BOM and I did not think it would take an hour
 Turns LED on when button is pressed and opens my github!
 ## August 27th, 12:05 PM AEST
 Started this YSWS. I have till tomorrow 3am to finish this. Just downloaded KiCad.  
