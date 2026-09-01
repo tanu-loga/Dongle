@@ -1,15 +1,17 @@
 # Dongle
-My own LED Dongle
-A LED dongle which opens my github page when you press a button and flashes lights!
-I wanted a cool fun project to make and learn something new in the process. This YSWS is one of the best option I could have ever chosen, here are my snips from my pcb!
+My own LED Dongle       
+A LED dongle which opens my github page when you press a button and flashes lights!               
+I wanted a cool fun project to make and learn something new in the process. This YSWS is one of the best option I could have ever chosen, here are my snips from my pcb!                       
 <img width="835" height="460" alt="image" src="https://github.com/user-attachments/assets/3d1a43ff-bb14-4f74-8930-b441f0876bca" />
-<img width="1047" height="851" alt="image" src="https://github.com/user-attachments/assets/1a4e4b57-d7e7-4d47-a4c5-5b759e27c90d" />
-<img width="550" height="694" alt="image" src="https://github.com/user-attachments/assets/f347a0d0-8f48-43af-bddf-0c73b746c736" />
+<img width="496" height="656" alt="image" src="https://github.com/user-attachments/assets/5c9c9e71-7aaa-47e1-a6af-b845f3d75cd4" />
+<img width="344" height="608" alt="image" src="https://github.com/user-attachments/assets/68f27fc2-54e8-4d0a-a11c-02d8759cd32a" />
 <img width="1218" height="682" alt="image" src="https://github.com/user-attachments/assets/65626dd9-68b7-4c54-9d71-971bc1dd2816" />
-<img width="1011" height="642" alt="image" src="https://github.com/user-attachments/assets/463a63d6-5a25-433a-98c6-912c73936fc7" />
-<img width="1051" height="601" alt="image" src="https://github.com/user-attachments/assets/00b219fb-628f-41f9-bd2e-381b4004e465" />
-<img width="1253" height="617" alt="image" src="https://github.com/user-attachments/assets/b68655aa-4d78-4a71-8b69-377f965de5df" />
-<img width="1179" height="640" alt="image" src="https://github.com/user-attachments/assets/90717bd7-f75a-438f-8ab4-21a632f4bd6f" />
+<img width="1261" height="702" alt="image" src="https://github.com/user-attachments/assets/474ddbd6-1c84-4297-9381-4836581205bc" />
+<img width="1254" height="693" alt="image" src="https://github.com/user-attachments/assets/25cf9e7b-aa79-4144-ab24-ea2aacae1364" />
+<img width="1222" height="685" alt="image" src="https://github.com/user-attachments/assets/6178473c-19cf-4379-98e7-8fa609ffd690" />
+<img width="1244" height="672" alt="image" src="https://github.com/user-attachments/assets/fbb37168-ab8e-4ad9-b69a-c1def88e765b" />
+<img width="1253" height="701" alt="image" src="https://github.com/user-attachments/assets/9feb1b0d-24bf-4fef-876e-25f50f37228a" />
+
 BOM
 
 | Name | Cost | URL |
