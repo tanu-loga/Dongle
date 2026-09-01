@@ -8,7 +8,7 @@ I spent 8 hours on breaks - not including sleep
 6 hours on the PCB wiring and so on                           
 I spent 1-2 hours on the case - installing took alot of time and I tried to tinker with the case alot. I tried but I thought it took too much time so I gave up                     
 1 more hour for the BOM. Really, I had no experience making the BOM and I did not think it would take an hour               
-The PCB turns LED on when button is pressed and opens my github!  
+The Dongle turns LED on when button is pressed and opens my github!  
 ## August 27th, 12:05 PM AEST
 Started this YSWS. I have till tomorrow 3am to finish this. Just downloaded KiCad.  
 I hope this goes well!  
