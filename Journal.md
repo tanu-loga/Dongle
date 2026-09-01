@@ -142,17 +142,24 @@ Almost done except for the GND wiring
 ITS DONE. THE PCB IS DONE! 0 ERRORS FROM WIRING!                          
 <img width="483" height="777" alt="image" src="https://github.com/user-attachments/assets/359b490d-aef7-4bd6-9cfe-5d6a8bc5edb0" />
 
+Until now I was under the plan of not adding a case, but I think given that they extended my time, I can add a case!
+## 3:59 PM 
+Finally downloaded and set-upped Fusion 360, which is used by the guide. It was easily the HARDEST application to download!
 ## 4:11 PM
 Started working on the case!
 <img width="1436" height="635" alt="image" src="https://github.com/user-attachments/assets/cb2ca045-a805-48b1-b53f-f0fbf7444e6c" />
 
-
-Until now I was under the plan of not adding a case, but I think given that they extended my time, I can add a case!
-## 3:59 PM 
-Finally downloaded and set-upped Fusion 360, which is used by the guide. It was easily the HARDEST application to download!
 ## 4:27 PM
 Lunch break!
 ## 5:13 PM
 Finished everything and did not add case. Currently doing BOM
 ## 5:49 PM
 Finished the whole YSWS!!
+
+## August 29th, but am writing this on September 1st
+Did some changes and upon the feedback of peers and org, I changed the board outline so that the usb edge connecter will fit into the computer. I also added a 'T' as some sort of a signature. 
+About the case, I thought I had time but I gave up since I'm quite new to fusion last time.
+Here's the updated PCB!
+
+<img width="656" height="842" alt="image" src="https://github.com/user-attachments/assets/617f98a9-0e52-4817-9d98-5ca4e09ff565" />
+
