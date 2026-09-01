@@ -164,7 +164,7 @@ Finished everything and did not add case. Currently doing BOM
 ## 5:49 PM
 Finished the whole YSWS!!
 
-## August 29th, but am writing this on September 1st
+## August 29th 8:20ish, but am writing this on September 1st
 Did some changes and upon the feedback of peers and org, I changed the board outline so that the usb edge connecter will fit into the computer. I also added a 'T' as some sort of a signature. 
 About the case, I thought I had time but I gave up since I'm quite new to fusion last time.
 Here's the updated PCB!
