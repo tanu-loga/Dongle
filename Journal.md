@@ -167,6 +167,9 @@ Finished the whole YSWS!!
 ## August 29th 8:20ish, but am writing this on September 1st
 Did some changes and upon the feedback of peers and org, I changed the board outline so that the usb edge connecter will fit into the computer. I also added a 'T' as some sort of a signature. 
 About the case, I thought I had time but I gave up since I'm quite new to fusion last time.
+
+## September 3rd, 1:39 PM
+Did more changes including changing the wiring since it was on the edge of the pcb
 Here's the updated PCB!
 
 <img width="656" height="842" alt="image" src="https://github.com/user-attachments/assets/617f98a9-0e52-4817-9d98-5ca4e09ff565" />
