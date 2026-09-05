@@ -11,6 +11,8 @@ I wanted a cool fun project to make and learn something new in the process. This
 <img width="1222" height="685" alt="image" src="https://github.com/user-attachments/assets/6178473c-19cf-4379-98e7-8fa609ffd690" />
 <img width="1244" height="672" alt="image" src="https://github.com/user-attachments/assets/fbb37168-ab8e-4ad9-b69a-c1def88e765b" />
 <img width="1253" height="701" alt="image" src="https://github.com/user-attachments/assets/9feb1b0d-24bf-4fef-876e-25f50f37228a" />
+<img width="1393" height="824" alt="image" src="https://github.com/user-attachments/assets/84ff7e8f-4dcc-4b6e-a1be-c21897261e2f" />
+
 
 BOM
 
