@@ -14,11 +14,15 @@ I wanted a cool fun project to make and learn something new in the process. This
 
 BOM
 
-| Name | Cost | URL |
-| -------- | -------- | -------- |
-CH552G MCU | 0.75  | https://www.lcsc.com/product-detail/WCH_WCH-Jiangsu-Qin-Heng-CH552G_C111292.html |
-100nF Ceramic Disc Capacitor| 0.40 | https://core-electronics.com.au/100nf-ceramic-disc-capacitor.html
-10K Resistor 8 pack | 0.80 | https://www.jaycar.com.au/10k-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0596?srsltid=AfmBOoqzmhM30-mAuCVkfZP84sxWR2cbtj9GbzEpIuyJxF-iYX6LCZfo
-330K Resistor 8 pack | 0.85 | https://www.jaycar.com.au/330-ohm-0-5-watt-metal-film-resistors-pack-of-8/p/RR0560?srsltid=AfmBOoq0jde3VLH6yhrEOzSr7aMWRyRvkiBrD9k68aj7_MCP7qge69iiIWo
-SPST PCB Mount Tactile Switch Round X2| 2.60 | https://www.jaycar.com.au/spst-pcb-mount-tactile-switch-round/p/SP0609?gad_source=1&gad_campaignid=23159422471&gbraid=0AAAAAD0dvLZrerjss17YTTY1eyIzS6Ip5&gclid=CjwKCAjw48TUBhBREiwAK0GnQQ_dD0Ii1hkVJqVNKzKzTGDaI9jJY_8pX-Pp-n3GcmkvVo6e6os6OhoCdGYQAvD_BwE
-Green 3mm LED 40mcd Round Diffused X8 | 2.4 | https://www.jaycar.com.au/green-3mm-led-40mcd-round-diffused/p/ZD0120?gad_source=1&gad_campaignid=23154998342&gbraid=0AAAAAD0dvLZ2-xqNyA9D5KJhMaNEriRcx&gclid=CjwKCAjw48TUBhBREiwAK0GnQeuhKOjyMMZlvnb9UmGTyD0RDicKeV3U7MG7UiYiZc1Q2fjIeIB28hoCV0gQAvD_BwE
+| Name | Cost | URL | Quantity |
+| -------- | -------- | -------- | ------- |
+CH552G MCU | 1.3646 | https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH552G/C111292 | 2 
+100nF Multilayer Ceramic Capacitors MLCC - SMD/SMT| 0.276 | https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663 | 20
+10K Chip Resistor - Surface Mount | 0.08 | https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804 | 20
+330K Chip Resistor - Surface Mount | 0.0702 | https://jlcpcb.com/partdetail/23865-0603WAF3300T5E/C23138 | 26
+Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS X2| 0.3792 | https://jlcpcb.com/partdetail/XUNPU-TS_1088R02026/C455280 | 6
+2mm x 1.25mm square LED Red | 0.299 | https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805R/C2295 | 26
+USB_A | 0.161 | https://jlcpcb.com/partdetail/SOFNG-USB05/C112454 | 2
+Total cost: $120.43
+
+<img width="1407" height="856" alt="image" src="https://github.com/user-attachments/assets/c4d660ec-ea93-4571-9481-39010d2552fc" />
