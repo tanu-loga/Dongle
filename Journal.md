@@ -174,3 +174,22 @@ Here's the updated PCB!
 
 <img width="656" height="842" alt="image" src="https://github.com/user-attachments/assets/617f98a9-0e52-4817-9d98-5ca4e09ff565" />
 
+## September 5th, 1:48 PM
+Doing BOM again
+
+## 2:26 PM
+JLCPCB BOM Tool - BOM Matching																
+BOM name：kicad lcsc-JLCPCB Assembly Order.xlsx			Download Time：2026-09-05 12:25:14				"* Our matching results are updated in real-time, but stock and prices may change. 
+If it's been over 24 hours, please re-match before placing your order."									
+PCB Assembled Qty：5			Est. Total Price：2.6300													
+Your BOM				Matched Parts							Order Information					
+Designator	Comment	Footprint	JLCPCB Part #	Matches	Part # 	Manufacturer	Footprint	Description	Category	Warning	JLCPCB Part #	Product link	Lib Type	Qty	Source	Total Price ($)
+C1,C2	Capacitor_SMD:C_0603_1608Metric	100nF		Select by System	CC0603KRX7R9BB104	YAGEO	0603	100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS	Multilayer Ceramic Capacitors MLCC - SMD/SMT		C14663	https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663	Basic	20	20 JLCPCB	0.276
+D1,D2,D3,D4,D5,D6,D7,D8	LED_SMD:LED_0805_2012Metric	LED		Select by System	KT-0805R	Hubei KENTO Elec	0805	-40℃~+85℃ 120° 2.4V 210mcd 40mW 615nm~630nm 645nm Discrete Diode Red Water Clear 0805 LED Indication - Discrete ROHS	LED Indication - Discrete		C2295	https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0805R/C2295	Extended	26	26 JLCPCB	0.299
+J1	CH552G:USB-A	USB_A		Select by System	USB-05	SOFNG	插件	-35℃~+75℃ 1 18.75mm 1A 24V 4P Male Right Angle Type-A USB 2.0 插件 USB Connectors ROHS	USB Connectors		C112454	https://jlcpcb.com/partdetail/SOFNG-USB05/C112454	Extended	2	2 JLCPCB	0.161
+R1	Resistor_SMD:R_0603_1608Metric	10K		Select by System	0603WAF1002T5E	UNI-ROYAL(Uniroyal Elec)	0603	-55℃~+155℃ 100mW 10kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS	Chip Resistor - Surface Mount		C25804	https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804	Basic	20	20 JLCPCB	0.08
+R2,R3,R4,R5,R6,R8,R9,R10	Resistor_SMD:R_0603_1608Metric	330R		Select by System	0603WAF3300T5E	UNI-ROYAL(Uniroyal Elec)	0603	-55℃~+155℃ 100mW 330Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS	Chip Resistor - Surface Mount		C23138	https://jlcpcb.com/partdetail/23865-0603WAF3300T5E/C23138	Basic	26	26 JLCPCB	0.0702
+SW1,SW2	Button_Switch_SMD:SW_SPST_TS-1088-xR020	SW_Push		Select by System	TS-1088R-02026	XUNPU	SMD,4x3mm	100,000 cycles 12V 2.6N 2.93mm 2mm 3.9mm 50mA Black Round Button SMD(SMT) Tab SPST Surface Mount,Vertical Without Bracket SMD,4x3mm Tactile Switches ROHS	Tactile Switches		C455280	https://jlcpcb.com/partdetail/XUNPU-TS_1088R02026/C455280	Extended	6	6 JLCPCB	0.3792
+U1	Package_SO:SOIC-16_3.9x9.9mm_P1.27mm	CH552G		Select by System	CH552G	WCH(Jiangsu Qin Heng)	SOP-16	16KB 24MHz 3.3V~5V 51 Family 8bit FLASH SOP-16 Microcontrollers (MCU/MPU/SOC) ROHS	Microcontrollers (MCU/MPU/SOC)		C111292	https://jlcpcb.com/partdetail/WCH_Jiangsu_Qin_Heng-CH552G/C111292	Extended	2	2 JLCPCB	1.3646
+<img width="3588" height="254" alt="image" src="https://github.com/user-attachments/assets/c5b94dec-938d-4238-9ab8-06fbcc7e14e2" />
+
