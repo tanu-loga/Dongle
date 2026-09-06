@@ -182,3 +182,6 @@ finished!
 
 ## September 6th, 12:20 PM
 I got permission to make a case for my PCB yay!
+Lookin good so far
+<img width="1469" height="811" alt="image" src="https://github.com/user-attachments/assets/e6a40404-179e-4e64-9741-eea7fc5bb67f" />
+
