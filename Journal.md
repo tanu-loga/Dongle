@@ -180,3 +180,5 @@ Doing BOM again
 ## 2:26 PM
 finished!
 
+## September 6th, 12:20 PM
+I got permission to make a case for my PCB yay!
