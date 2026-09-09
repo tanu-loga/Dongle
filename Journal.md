@@ -184,4 +184,8 @@ finished!
 I got permission to make a case for my PCB yay!
 Lookin good so far
 <img width="1469" height="811" alt="image" src="https://github.com/user-attachments/assets/e6a40404-179e-4e64-9741-eea7fc5bb67f" />
-
+1:56 PM
+Sob. Am tired
+## September 9th 2:36 PM
+YESSSSSSSSSS I finished the case! 
+<img width="832" height="575" alt="image" src="https://github.com/user-attachments/assets/9f78b7b6-10d2-4609-a090-4f05fba94e87" />
